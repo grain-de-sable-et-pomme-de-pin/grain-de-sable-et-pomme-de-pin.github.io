@@ -2,7 +2,7 @@
 layout: post
 title:  "Etude du trafic routier"
 author: sal
-categories: [ Etudes ]
+categories: [ études ]
 image: "assets/images/route.jpg"
 ---
 
