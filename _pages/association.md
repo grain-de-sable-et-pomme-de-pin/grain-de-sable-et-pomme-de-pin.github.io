@@ -32,8 +32,6 @@ Elle a pour but :
 
 <p>Son champ d’action est déterminé par les éléments structurants du patrimoine naturel que sont les bois, les buttes, les cours d’eau. Il s’étend aux bois de Moncé, de St Hubert et au bassin du Rhonne et de ses affluents qui constituent une entité géologique, géographique, historique, paysagère et écologique (ZNIEFF de type 2 des bois de Moncé et de St Hubert) et en conséquence aux communes concernées.</p>
 
-<p>Pour nous faire entendre, nous avons besoin de nombreux adhérents.<br/>Venez nous rejoindre !</p>
-
 </div>
 
 <div class="col-md-4">
