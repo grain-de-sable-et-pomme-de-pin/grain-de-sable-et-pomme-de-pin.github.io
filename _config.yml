@@ -2,8 +2,8 @@
 name: "grain de sable et pomme de pin"
 title: "Grain de Sable et Pomme de Pin"
 description: "L'association Grain de Sable et Pomme de Pin a pour but de protéger l'environnement, tout particulièrement les espaces naturels, de défendre le cadre de vie des habitants et de promouvoir le développement durable"
-logo: 'assets/images/logo-gspp.png'
-favicon: 'assets/images/logo-gspp.png'
+logo: '/assets/images/logo-gspp.png'
+favicon: '/assets/images/logo-gspp.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -67,6 +67,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
