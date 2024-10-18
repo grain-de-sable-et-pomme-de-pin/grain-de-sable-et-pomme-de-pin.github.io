@@ -4,6 +4,7 @@ title:  "Le dépôt pétrolier de Saint-Gervais-en-Belin"
 author: gspp
 categories: [ Dossier, Saint-Gervais-en-Belin ]
 image: assets/images/depot-petrolier.jpg
+description: "Grain de Sable et Pomme de Pin représente Sarthe Nature Environnement au sein de la commission locale (CLIC) concernant la mise en place du PPRT pour le dépôt pétrolier Total de St Gervais-en-Belin."
 ---
 
 Grain de Sable et Pomme de Pin représente Sarthe Nature Environnement au sein de la CLIC (Commission Locale d'Information et de Concertation) concernant la mise en place du PPRT pour le dépot pétrolier Total de St Gervais-en-Belin.
