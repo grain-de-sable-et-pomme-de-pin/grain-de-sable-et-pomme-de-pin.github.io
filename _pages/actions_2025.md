@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actions 2020
-permalink: /actions_2020
+title: Actions 2025
+permalink: /actions_2025
 comments: false
 ---
