@@ -3,7 +3,7 @@ layout: post
 title:  "Les projets de déviation et de sablière"
 author: gspp
 categories: [ dossier ]
-image: assets/images/sabliere.jpg
+image: /assets/images/sabliere.jpg
 featured: true
 hidden: true
 ---

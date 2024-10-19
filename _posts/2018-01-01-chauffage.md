@@ -3,7 +3,7 @@ layout: post
 title:  "Chauffage : comment bien dimensionner sa chaudière ?"
 author: gspp
 categories: [ études ]
-image: assets/images/chauffage.jpg
+image: /assets/images/chauffage.jpg
 ---
 
 Les exemples d'installations de chauffage surdimensionnées sont malheureusement très nombreux. Les installateurs, trop prudents, ou très intéressés, vous proposent des puissances supérieures à votre besoin.
