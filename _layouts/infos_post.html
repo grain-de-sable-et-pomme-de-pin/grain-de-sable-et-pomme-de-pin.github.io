@@ -105,18 +105,21 @@ post_class: post-template
 			<!-- PDFs -->
 			{% assign pdfs = site.static_files | where: "pdf", true | where_exp: "item", "item.path contains 'infos_'" %}
 			{% assign pdfs = pdfs | sort: "path" %}
-			
+			<div class="row">
 			{% for pdf in pdfs %}
-			  <a href="{{ pdf.path }}">{{ pdf.path | split: "/" | last }}</a><br>
+			<div class="col-md-3">
+				<div class="card" style="width: 18rem;">
+					<img src="/assets/images/pdf.png" class="card-img-top" alt="pdf icon">
+					<div class="card-body">
+					  <h5 class="card-title">{{ pdf.path | split: "/" | last }}</h5>
+					  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					  <a href="{{ pdf.path }}" class="btn btn-primary" target="_blank">Afficher</a>
+					</div>
+				</div>
+			</div>
 			{% endfor %}
+			</div>
 			<!-- End PDFs -->
-
-			<!-- Images -->
-			{% assign image_files = site.static_files | where: "image", true %}
-			{% for myimage in image_files %}
-			{{ myimage.path }}
-			{% endfor %}
-			<!-- End Images -->
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
