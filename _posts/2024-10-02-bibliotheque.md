@@ -3,10 +3,8 @@ layout: post
 title:  "Glossaire"
 author: gspp
 categories: [ et aussi... ]
-image: "assets/images/glossaire.jpg"
+image: "assets/images/bibliotheque.jpg"
 ---
-
-**Bibliothèque**
 
 L'association se propose de mettre à votre disposition des ouvrages ayant trait à l'environnement.
 
