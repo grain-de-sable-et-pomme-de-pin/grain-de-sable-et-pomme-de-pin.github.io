@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Etude du trafic routier"
-author: sal
+author: gspp
 categories: [ études ]
 image: "assets/images/route.jpg"
 ---

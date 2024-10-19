@@ -2,7 +2,7 @@
 layout: post
 title:  "Les serres de la Belle Etoile"
 author: gspp
-categories: [ Dossier ]
+categories: [ dossier ]
 tags: [Moncé-en-Belin]
 image: assets/images/serres-belle-etoile.jpg
 description: "En lien étroit avec SNE, l'association Grain de Sable et Pomme de Pin se mobilise pour soutenir le projet d'un agriculteur. SNE veut en faire un cas d'école au sens où elle entend se battre contre «le mitage des terres agricoles» par les ZAC et l'urbanisation."
