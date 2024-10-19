@@ -109,7 +109,7 @@ post_class: post-template
 			{% for pdf in pdfs %}
 			<div class="col-md-3" style="margin-bottom: 12px;">
 				<div class="card">
-					<a href="{{ pdf.path }}"><img src="/assets/images/pdf.png" class="card-img-top" alt="pdf icon"></a>
+					<a href="{{ pdf.path }}" target="_blank"><img src="/assets/images/pdf.png" class="card-img-top" alt="pdf icon" style="background-color: #f8f8f8;"></a>
 					<div class="card-body">
 					  <h5 class="card-title">{{ pdf.path | split: "/" | last }}</h5>
 					  <a href="{{ pdf.path }}" class="btn btn-primary" target="_blank">Afficher</a>
