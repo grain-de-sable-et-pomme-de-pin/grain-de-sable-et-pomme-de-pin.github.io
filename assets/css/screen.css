@@ -863,6 +863,14 @@ iframe {
     .share {
         margin-top: 30px;
     }
+
+	.mainheading p.lead {
+		display: none;
+	}
+
+	.recent-posts {
+		display: none;
+	}
 }
 
 .card .img-fluid {
