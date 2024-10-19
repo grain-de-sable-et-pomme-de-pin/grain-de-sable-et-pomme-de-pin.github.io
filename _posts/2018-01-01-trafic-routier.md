@@ -3,7 +3,7 @@ layout: post
 title:  "Etude du trafic routier"
 author: gspp
 categories: [ études ]
-image: "/assets/images/route.jpg"
+image: "assets/images/route.jpg"
 ---
 
 ## Diminution du trafic routier

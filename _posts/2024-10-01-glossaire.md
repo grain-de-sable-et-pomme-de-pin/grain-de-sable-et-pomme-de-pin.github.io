@@ -3,7 +3,7 @@ layout: post
 title:  "Glossaire"
 author: gspp
 categories: [ et aussi... ]
-image: "/assets/images/glossaire.jpg"
+image: "assets/images/glossaire.jpg"
 ---
 
 Voir le siglier de l'association Sauvegarde de l'Anjou : [Glossaire](/pdf/siglier.pdf)
