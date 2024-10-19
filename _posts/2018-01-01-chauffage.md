@@ -2,7 +2,7 @@
 layout: post
 title:  "Chauffage : comment bien dimensionner sa chaudière ?"
 author: gspp
-categories: [ Etude ]
+categories: [ études ]
 image: assets/images/chauffage.jpg
 ---
 
