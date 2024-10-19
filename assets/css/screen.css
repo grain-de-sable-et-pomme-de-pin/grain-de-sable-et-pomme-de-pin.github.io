@@ -14,6 +14,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .mainheading {
     padding: 1rem 0rem;
+	height:300px;
+	background: url("/assets/images/fond_grain_de_sable_et_pomme_de_pin.jpg") no-repeat center center;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 1.5rem;
 }
 
 a {
