@@ -107,12 +107,12 @@ post_class: post-template
 			{% assign pdfs = pdfs | sort: "path" %}
 			<div class="row">
 			{% for pdf in pdfs %}
-			<div class="col-md-3">
+			<div class="col-md-3" style="margin-bottom: 12px;">
 				<div class="card">
-					<img src="/assets/images/pdf.png" class="card-img-top" alt="pdf icon">
+					<a href="{{ pdf.path }}"><img src="/assets/images/pdf.png" class="card-img-top" alt="pdf icon"></a>
 					<div class="card-body">
 					  <h5 class="card-title">{{ pdf.path | split: "/" | last }}</h5>
-ré					  <a href="{{ pdf.path }}" class="btn btn-primary" target="_blank">Afficher</a>
+					  <a href="{{ pdf.path }}" class="btn btn-primary" target="_blank">Afficher</a>
 					</div>
 				</div>
 			</div>
