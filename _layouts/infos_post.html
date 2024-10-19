@@ -108,7 +108,7 @@ post_class: post-template
 			<div class="row">
 			{% for pdf in pdfs %}
 			<div class="col-md-3">
-				<div class="card" style="width: 18rem;">
+				<div class="card">
 					<img src="/assets/images/pdf.png" class="card-img-top" alt="pdf icon">
 					<div class="card-body">
 					  <h5 class="card-title">{{ pdf.path | split: "/" | last }}</h5>
