@@ -2,12 +2,12 @@
 name: "grain de sable et pomme de pin"
 title: "Grain de Sable et Pomme de Pin"
 description: "L'association Grain de Sable et Pomme de Pin a pour but de protéger l'environnement, tout particulièrement les espaces naturels, de défendre le cadre de vie des habitants et de promouvoir le développement durable"
-logo: '/assets/images/logo-gspp.png'
-favicon: 'favicon.png'
-baseurl: ''
-google_analytics: ''
+logo: 'assets/images/logo-gspp.png'
+favicon: 'assets/images/logo-gspp.png'
+baseurl: /
+google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: ''
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -45,6 +45,7 @@ paginate_path: /page:num/
     
 # Other
 markdown: GFM
+
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
