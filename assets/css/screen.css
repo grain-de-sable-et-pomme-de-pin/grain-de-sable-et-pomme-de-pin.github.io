@@ -319,6 +319,8 @@ span.post-read-more a:hover {
 .mainheading h1.sitetitle {
     font-family: luna;
 	margin-bottom: 0.8em;
+	text-shadow: 2px 2px 4px #222222, 0px 0px 14px black;
+    font-family: luna;
 }
 .mainheading h1 small {
 	font-size: 0.65em;
