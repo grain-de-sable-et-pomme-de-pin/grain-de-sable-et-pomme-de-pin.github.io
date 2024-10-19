@@ -111,6 +111,13 @@ post_class: post-template
 			{% endfor %}
 			<!-- End PDFs -->
 
+			<!-- Images -->
+			{% assign image_files = site.static_files | where: "image", true %}
+			{% for myimage in image_files %}
+			{{ myimage.path }}
+			{% endfor %}
+			<!-- End Images -->
+
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             {% if page.previous.url %}
