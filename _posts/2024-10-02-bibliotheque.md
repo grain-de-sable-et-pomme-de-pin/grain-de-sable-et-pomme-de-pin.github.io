@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Glossaire"
+title:  "Bibliothèque"
 author: gspp
 categories: [ et aussi... ]
 image: "assets/images/bibliotheque.jpg"
