@@ -332,6 +332,9 @@ span.post-read-more a:hover {
 }
 .root.mainheading p.lead {
 	text-shadow: 2px 2px 4px black, 0px 0px 6px #777777;
+	max-width: 830px;
+    text-align: center;
+    margin: auto;
 }
 
 .footer {
@@ -945,3 +948,4 @@ iframe {
 	background-size: cover;
 
 }
+
