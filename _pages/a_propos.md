@@ -24,3 +24,10 @@ Pour nous contacter, vous pouvez nous envoyer un courriel à l'adresse suivante 
 
 Le bulletin d'adhésion est disponible dans la page [L'association](/association).
 
+## Réalisation de ce site
+
+Ce site a été réalisé avec le générateur de site statique [Jekyll](https://jekyllrb.com/), et est hébergé sur [GitHub Pages](https://pages.github.com/). 
+
+## Crédits photos
+
+Home page, texture d'herbe : CC-BY-NC-SA [levhita](https://www.deviantart.com/levhita/art/Grass-Texture-25331482)
