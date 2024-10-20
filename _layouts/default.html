@@ -111,11 +111,23 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 {% if page.url == "/" %}
-<div class="mainheading">
+</div>
+<div class="root mainheading">
     <h1 class="sitetitle">grain de sable <small>et</small> pomme de pin</h1>
     <p class="lead">
         {{ site.description }}
     </p>
+</div>
+<div class="container">
+{% endif %}
+
+<!-- Site Title
+================================================== -->
+{% if page.url == "/" %}
+<div class="rootlinks">
+    <div class="col-md-4">Les dossiers</div>
+	<div class="col-md-4">Les études</div>
+	<div class="col-md-4">Et aussi...</div>
 </div>
 {% endif %}
 
