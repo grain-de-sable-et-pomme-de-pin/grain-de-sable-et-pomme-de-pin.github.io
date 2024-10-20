@@ -933,6 +933,10 @@ iframe {
 	max-height: 74px;
 }
 
+.rootlinks {
+	margin-bottom:30px;
+}
+
 .rootlinks .card {
 	border:none;
 	border-radius: 4px;
