@@ -10,9 +10,12 @@ comments: false
 Les 19, 20 et 21 Janvier 2024, GSPP organise la 10ème édition de son festival nature et environnement, au Val'Rhonne à Moncé en Belin.
 Au programme : films, diaporamas, conférences et débats, forum avec de nombreux stands et expositions.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TqA5GQtwIeI?si=95t4a6b9ytLhQ82e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tYWYXD-SfvI?si=la-Ld_DrzXRu_SxV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ![alt text](festival.jpg)
 
