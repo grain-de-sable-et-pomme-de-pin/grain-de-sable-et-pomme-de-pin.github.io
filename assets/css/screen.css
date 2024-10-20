@@ -12,7 +12,7 @@ License: https://www.wowthemes.net/freebies-license/
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
-.mainheading {
+.root.mainheading {
     padding: 120px 120px 90px 120px;
     height: 420px;
     background: url(/assets/images/fond_grain_de_sable_et_pomme_de_pin.jpg) no-repeat bottom center;
@@ -316,21 +316,21 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
+.root.mainheading h1.sitetitle {
     font-family: luna;
 	margin-bottom: 0.8em;
 	text-shadow: 2px 2px 4px #222222, 0px 0px 14px black;
     font-family: luna;
 }
-.mainheading h1 small {
+.root.mainheading h1 small {
 	font-size: 0.65em;
 }
 
-.mainheading h1.posttitle {
+.root.mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
 }
-.mainheading p.lead {
+.root.mainheading p.lead {
 	text-shadow: 2px 2px 4px black, 0px 0px 6px #777777;
 }
 
