@@ -935,6 +935,7 @@ iframe {
 
 .rootlinks {
 	margin-bottom:30px;
+	color:white;
 }
 
 .rootlinks .card {
@@ -942,4 +943,5 @@ iframe {
 	border-radius: 4px;
 	background-image: url("/assets/images/grass.jpg");
 	background-size: cover;
+
 }
