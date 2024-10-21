@@ -11,6 +11,9 @@ Les 19, 20 et 21 Janvier 2024, GSPP organise la 10ème édition de son festival 
 
 Au programme : films, diaporamas, conférences et débats, forum avec de nombreux stands et expositions.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 {% raw %}
 
 <div class="spacing youtube" markdown="0"><iframe width="560" height="315" src="https://www.youtube.com/embed/tYWYXD-SfvI?si=la-Ld_DrzXRu_SxV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
