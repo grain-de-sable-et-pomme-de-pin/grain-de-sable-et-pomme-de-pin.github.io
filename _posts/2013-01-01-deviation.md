@@ -4,8 +4,6 @@ title:  "Les projets de déviation et de sablière"
 author: gspp
 categories: [ dossier ]
 image: assets/images/sabliere.jpg
-featured: true
-hidden: true
 ---
 
 Dans la Sarthe, au sud du Mans, les bois de Moncé et de St Hubert, "espaces boisés classés" au PLU des communes concernées, abritent le parcours de santé de St Gervais, et plus largement un grand nombre de chemins empruntés par les promeneurs, les cavaliers ou les vététistes.
