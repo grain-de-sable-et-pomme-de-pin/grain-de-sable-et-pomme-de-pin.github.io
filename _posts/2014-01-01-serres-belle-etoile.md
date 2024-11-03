@@ -20,8 +20,10 @@ Son projet réutilise toutes les installations pour cultiver à température amb
 Il projette aussi de pérenniser son exploitation en installant un jeune agriculteur dans la maison d'habitation qui fait partie du lot, ceci dans l'idée d'une transmission progressive.
 Enfin, les terres inondables seront exploitées en prairie.
 
-
+![alt text](image-2.png)
 - Article paru dans "Agri72" du 08/01/2010	
+
+![alt text](image-3.png)
 - Article paru dans "Agri72" du 15/01/2010
 
 Le soutien des différents organismes agricoles et l'accord de financement de la banque attestent du sérieux de son projet.
@@ -62,6 +64,8 @@ Lors de l'obligation pour le notaire de purger la préemption de la commune, la 
 
 ### 18 Février 2010
 Dépot d'un recours gracieux auprès de M. Le Président de la Communauté de Communes : 
+
+[pdf/RecoursSerresBE.pdf](/pdf/RecoursSerresBE.pdf)
 
 ### Mai 2010
 Une issue favorable à l'agriculture de proximité !

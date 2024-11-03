@@ -19,7 +19,6 @@ ZNIEFF de Type 1 : Etangs à l'est de Chateau-Gaillard
 ZNIEFF de Type 2 : Bois de Moncé et de St Hubert
 
 
-Agrandir la carte
 Et pourtant deux projets intimement liés, destructeurs d'environnement, augmentant les risques naturels (inondations, atteinte de la nappe phréatique), menacent la zone que nous entendons protéger : une DEVIATION qui traverserait une zone inondable et des bois classés protégés, et une CARRIERE DE SABLE sur "La Butte du Vieux Mans" (site d'exception sur le plan géologique, géographique et paysager).
 
 
@@ -48,6 +47,8 @@ Force est de remarquer que depuis l’origine, à chaque fois que l’on parle d
 Le Conseil Général présente le projet à la Préfecture pour demande d’autorisation d’enquête publique.
 Celle-ci est effectuée du 04/12/07 au 17/01/08 et porte à la fois sur l'utilité publique du projet de prolongement de la déviation Sud-Est entre le rond-point de la Belle-Etoile (R.D.323) et la route du Lude au sud de Ponthibault (R.D.307), sur le plan local d'urbanisme et sur le classement des voieries concernées.
 Cet avant-projet de déviation, dont le budget avoisinerait les huit millions d’Euros, traverse pour moitié une zone naturelle d’expansion de crues et pour moitié une zone naturelle protégée boisée classée. Il n’échappera à personne que les deux projets déviation et sablière sont intimement liés auquel s'ajoute un troisieme : celui de l'extension de la ZAC de la Belle Etoile.
+
+![alt text](image.png)
 
 ## Plan de situation
 ### 2008
@@ -100,6 +101,8 @@ La municipalité a tenté en 2002, lors d’une enquête publique, d’intégrer
 La société GSM a mis en œuvre toutes les stratégies de communication possibles, afin de persuader toutes les parties prenantes du bien fondé de son projet.
 Pourquoi a-t-elle rencontré individuellement les riverains, les associations, les élus… en dehors de la commission de concertation ?
 La partialité avec laquelle les études ont été conduites, avec laquelle les propos tenus en commission de concertation ont étés relatés dans les comptes-rendus, a été dénoncée à plusieurs reprises par courrier recommandé des riverains et des associations.
+
+![alt text](image-1.png)
 
 ## Les conséquences
 ### Sur le patrimoine paysager

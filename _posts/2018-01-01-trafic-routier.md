@@ -11,25 +11,39 @@ image: "assets/images/route.jpg"
 Source Conseil Général : Conseil Général 72
 
 Carte du trafic en Sarthe en 2005 : 
+[pdf/trafic-2005.pdf](/pdf/trafic-2005.pdf)
+
 Carte du trafic en Sarthe en 2007 : 
+[pdf/trafic_2007.pdf](/pdf/trafic_2007.pdf)
+
 Carte du trafic en Sarthe en 2008 : 
+[pdf/trafic_2008.pdf](/pdf/trafic_2008.pdf)
+
 Carte du trafic en Sarthe en 2009 : 
+[pdf/trafic_2009.pdf](/pdf/trafic_2009.pdf)
 
 ### Dans le secteur nous concernant
 Entre Arnage et Ponthibault, on constate que la tendance à la baisse se confirme :
 
 -15% entre 2005 et 2007
 -8,5% entre 2007 et 2008
+
+![Evolution du trafic routier](image-4.png)
 Evolution du trafic routier
+
 Ces chiffres vont à l'inverse des prévisions de trafic annoncées dans le dossier de la déclaration d’utilité publique (DUP).
 
 D'autre part, une étude approfondie de ces dossier de DUP, nous a amenés à constater que les cartes de trafic prévisionnel (en 2000, 2010, 2020) ne sont pas cohérentes avec les évolutions en pourcentages annoncées (+0.9% par an de 2000 à 2010, +0.6% par an ensuite).
 Voir les courbes comparatives ci-dessous.
 
+![courbes comparatives](image-5.png)
+
 Evolution du trafic routier
 
 ### Comparatif des parcours avec et sans déviation
 Nous nous interesssons ici aux conséquences en termes de distance, de consommation et d’émission de CO2 sur l’utilisation du parcours avec ou sans déviation.
+
+![utilisation du parcours avec ou sans déviation](image-6.png)
 
 ### La méthode utilisée
 Nous avons « découpé » virtuellement le parcours actuel et celui passant par cette déviation en tronçons à type de circulation homogène.
@@ -43,14 +57,17 @@ Ces chiffres sont applicables aux 95 % de véhicules qui sont autorisés sur ce 
 Les poids-lourds de + de 7,5 tonnes sont, rappelons-le, interdits dans la traversée d’Arnage.
 
 ### Distance
+![Distance](image-7.png)
 
 ### Consommation de carburant
-Calcul basé sur un aller-retour journalier, effectué 220 jours par an (voir le détail ).
+Calcul basé sur un aller-retour journalier, effectué 220 jours par an ([voir le détail](/pdf/Calcul1.pdf)).
 
+![Calcul basé sur un aller-retour journalier](image-8.png)
 
 ### Rejet global de CO2
-Donné pour l’ensemble des véhicules empruntant ce trajet (voir le détail ).
+Donné pour l’ensemble des véhicules empruntant ce trajet ([voir le détail](/pdf/Calcul2.pdf))..
 
+![alt text](image-9.png)
 
 La conclusion est claire : pour minimiser votre impact carbone (ainsi que l’impact sur votre porte-monnaie), il ne faudra surtout pas utiliser ce nouveau parcours !
 
