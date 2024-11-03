@@ -1,21 +1,18 @@
 ---
 layout: default
 ---
-</div> <!-- end of main-content -->
 <div class="jumbotron foret">
 </div>
 
-<div class="main-content">
-    <div class="row listrecent">
+<div class="row category">
 
-		<div class="section-title col-md-12 mt-4">
-			<h2 id="dossier" class="page_category"><span class="text-capitalize">{{ page.category }}</span></h2>
-		</div>
-
-
-		{% for post in site.categories[page.category] %}
-			{% include postbox.html %}
-		{% endfor %}
+	<div class="section-title col-md-12 mt-4">
+		<h2 id="dossier" class="page_category"><span class="text-capitalize">{{ page.category }}</span></h2>
 	</div>
 
-<!-- main content is closed in default template -->	
+
+	{% for post in site.categories[page.category] %}
+		{% include postbox.html %}
+	{% endfor %}
+</div>
+
