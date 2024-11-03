@@ -26,27 +26,29 @@ Avant de vous séparer de votre ancienne chaudière, il faut relever son taux d'
 ### Le principe
 Durant les jours les plus froids de l’hiver, mesurer la puissance fournie par la chaudière et mesurer de la température extérieure.
 
+![alt text](image-10.png)
 
 ### En pratique
 **Mesure de la température extérieure moyenne**
 Certaines « stations météo » permettent de mémoriser plusieurs points de mesure sur 24 heures.
 
-
+![alt text](image-11.png)
 Calculer ensuite la température moyenne pour chaque tranche de 24 heures.
 
 **Mesure de la puissance délivrée par la chaudière**
 Utiliser un horamètre (ou compteur horaire). A brancher en parallèle sur l’alimentation de l’électrovanne qui délivre le carburant (gaz ou fuel) au brûleur.
 
+![alt text](image-12.png)
 
 Relever les données de cet horamètre toutes les 24 heures. Exemple : fonctionnement du brûleur durant 8 heures / 24 indique que 33% de la puissance maxi a été utilisée. Pour un brûleur 30 kW : 30 x 0.33 = 10 kW
 
 ## En conclusion
 Un dimensionnement correct de votre chaudière vous permettra :
 
+- De limiter nettement votre consommation d’énergie
+- De diminuer le coût d’achat de votre nouvelle chaudière
+- De réduire la production de substances toxiques (NOX) et d’imbrûlés
+- De réduire le coût de la maintenance globale de la chaudière
+- D’augmenter sa longévité
 
-De limiter nettement votre consommation d’énergie
-De diminuer le coût d’achat de votre nouvelle chaudière
-De réduire la production de substances toxiques (NOX) et d’imbrûlés
-De réduire le coût de la maintenance globale de la chaudière
-D’augmenter sa longévité
-
+Pour comparer le coût des énergies, vous pouvez consulter ce lien : [Comparatif des énergies](https://picbleu.fr/les-articles/prix-des-energies-electricite-bois-fioul-gaz-naturel-gpl-argus-officiel)
