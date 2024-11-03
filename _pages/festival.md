@@ -17,6 +17,10 @@ Au programme : films, diaporamas, conférences et débats, forum avec de nombreu
 
 ---
 
-Test vidéo 
+## Retour en images sur le festival 2024
 
-<lite-youtube videoid="goiWrNiaT0I" playlabel="Play: Crayon Physics Deluxe - Trailer HD"></lite-youtube>
+<lite-youtube videoid="tYWYXD-SfvI" playlabel="Retour en images sur le festival 2024"></lite-youtube>
+
+## Bande annonce du festival 2024
+
+<lite-youtube videoid="TqA5GQtwIeI" playlabel="Bande annonce festival 2024"></lite-youtube>
