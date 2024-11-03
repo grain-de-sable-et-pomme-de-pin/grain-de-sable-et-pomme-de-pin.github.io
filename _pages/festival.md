@@ -14,3 +14,9 @@ Au programme : films, diaporamas, conférences et débats, forum avec de nombreu
 ![alt text](festival.jpg)
 
 [Consulter le programme 2024](/pdf/festnat-programme-2024.pdf)
+
+---
+
+Test vidéo 
+
+<lite-youtube videoid="goiWrNiaT0I" playlabel="Play: Crayon Physics Deluxe - Trailer HD"></lite-youtube>
