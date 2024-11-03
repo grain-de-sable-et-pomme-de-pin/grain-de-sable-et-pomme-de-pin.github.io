@@ -984,3 +984,6 @@ iframe {
 	display: inline-block;
 	border-bottom: none;
 }
+.category .section-title span {
+	border-bottom: none;
+}
