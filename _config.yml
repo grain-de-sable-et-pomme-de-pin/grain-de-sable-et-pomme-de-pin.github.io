@@ -1,5 +1,5 @@
 # Site
-name: "grain de sable et pomme de pin"
+name: "Grain de Sable et Pomme de Pin"
 title: "Grain de Sable et Pomme de Pin"
 description: "L'association Grain de Sable et Pomme de Pin a pour but de protéger l'environnement, tout particulièrement les espaces naturels, de défendre le cadre de vie des habitants et de promouvoir le développement durable."
 logo: 'assets/images/logo-gspp.png'
@@ -21,7 +21,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://gspp.asso.st
     twitter: 
-    description: "Grain de sable et pomme de pin"
+    description: "Grain de Sable et Pomme de Pin"
 
 # Plugins
 plugins:
