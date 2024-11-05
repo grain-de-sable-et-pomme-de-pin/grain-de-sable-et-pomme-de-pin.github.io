@@ -30,4 +30,10 @@ Ce site a été réalisé avec le générateur de site statique [Jekyll](https:/
 
 ## Crédits photos
 
-Home page, texture d'herbe : CC-BY-NC-SA [levhita](https://www.deviantart.com/levhita/art/Grass-Texture-25331482)
+Page d'accueil, bandeau avec deux pommes de pins : CC-BY-NC-ND 4.0 gautier.michelin@gmail.com
+
+Page d'accueil, soleil couchant derrière les pins : CC-BY-NC-ND 4.0 gautier.michelin@gmail.com
+
+Affiches du festival : voir sur le côté gauche ou droit de chaque affiche
+
+Page d'accueil, texture d'herbe : CC-BY-NC-SA [levhita](https://www.deviantart.com/levhita/art/Grass-Texture-25331482)
