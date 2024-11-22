@@ -5,7 +5,7 @@ permalink: /actions_2025
 comments: false
 ---
 
-[Actions 2019](actions_2019) (actions_2020)[Actions 2020] (actions_2021)[Actions 2021] (actions_2022)[Actions 2022] (actions_2023)[Actions 2023] (actions_2024)[Actions 2024]
+[Actions 2019](actions_2019) [Actions 2020](actions_2020) [Actions 2021](actions_2021) [Actions 2022](actions_2022) [Actions 2023](actions_2023) [Actions 2024](actions_2024)
 
 - Festival Nature Environnement du 17 au 19 janvier 2025
   Pour la 11e fois, l'association Grain de Sable et Pomme de Pin organise son festival. Temps fort de la vie de l'association, de la vie locale et moncéenne, après avoir fêté les 10 ans du festival en 2024, la nouvelle édition 2025 s'annonce dès maintenant tout aussi passionnante !
