@@ -5,6 +5,14 @@ permalink: /actions_2024
 comments: false
 ---
 
+# Bilan 2024
+
+- Festival : les retours reçus sont excellents, nous avons eu près de 10 articles. La gestion des repas par Marie a permis de soulager l'équipe. Quelques changements dans la billeterie ont un peu complexifié le process. Pour la 10e année, l'équipe voulait marquer le coup, l'exercice s'est révélé un déficitaire, le budget a été suppléé par les fonds propres de l'association.
+
+- 
+
+
+
 ## 1er Juillet 2023
 Abeilles sauvages et domestiques
 
