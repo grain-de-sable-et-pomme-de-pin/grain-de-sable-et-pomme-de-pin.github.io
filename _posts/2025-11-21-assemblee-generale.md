@@ -3,7 +3,7 @@ layout: post
 title:  "Assemblée générale du 21/11/2025"
 author: gspp
 categories: [ ]
-tags : [festival, nature, environnement, moncé, val-rhonne]
+tags : [association, assemblée générale]
 image: assets/images/2025/ag_gssp_2025_img_2006.jpg
 description: "Assemblée générale du 21 Novembre 2025."
 featured: true
