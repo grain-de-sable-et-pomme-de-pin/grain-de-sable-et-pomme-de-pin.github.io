@@ -4,7 +4,7 @@ title:  "Assemblée générale du 21/11/2025"
 author: gspp
 categories: [ ]
 tags : [festival, nature, environnement, moncé, val-rhonne]
-image: assets/images/2025/GSPP-Affiche-2026_small.jpg
+image: assets/images/2025/ag_gssp_2025_img_2006.jpg
 description: "Assemblée générale du 21 Novembre 2025."
 featured: true
 ---
@@ -25,10 +25,10 @@ Les comptes de l'association sont disponibles sur demande auprès du trésorier,
 
 En quelques photos :
 
-![AG 2025 - 1](/assets/images/2025/ag_gssp_2025_img_2006.jpeg)
-![AG 2025 - 2](/assets/images/2025/ag_gssp_2025_img_2007.jpeg)
-![AG 2025 - 3](/assets/images/2025/ag_gssp_2025_img_2009.jpeg)
-![AG 2025 - 4](/assets/images/2025/ag_gssp_2025_img_2012.jpeg)
-![AG 2025 - 5](/assets/images/2025/ag_gssp_2025_img_2013.jpeg)
+![AG 2025 - 1](/assets/images/2025/ag_gssp_2025_img_2006.jpg)
+![AG 2025 - 2](/assets/images/2025/ag_gssp_2025_img_2007.jpg)
+![AG 2025 - 3](/assets/images/2025/ag_gssp_2025_img_2009.jpg)
+![AG 2025 - 4](/assets/images/2025/ag_gssp_2025_img_2012.jpg)
+![AG 2025 - 5](/assets/images/2025/ag_gssp_2025_img_2013.jpg)
 
 
