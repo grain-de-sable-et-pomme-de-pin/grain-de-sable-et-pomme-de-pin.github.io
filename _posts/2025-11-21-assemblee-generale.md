@@ -21,6 +21,8 @@ L'ordre du jour de l’Assemblée Générale Ordinaire
 
 Le compte-rendu, le rapport d'activités et le rapport vont être rajoutés ici dans quelques jours.
 
+Les comptes de l'association sont disponibles sur demande auprès du trésorier, et réservés à l'accès des membres de l'association à jour de leur cotisation.
+
 En quelques photos :
 
 ![AG 2025 - 1](/assets/images/2025/ag_gssp_2025_IMG_2006.jpeg)
