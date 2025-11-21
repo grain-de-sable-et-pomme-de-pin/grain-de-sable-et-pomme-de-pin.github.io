@@ -25,11 +25,10 @@ Les comptes de l'association sont disponibles sur demande auprès du trésorier,
 
 En quelques photos :
 
-![AG 2025 - 1](/assets/images/2025/ag_gssp_2025_IMG_2006.jpeg)
-![AG 2025 - 2](/assets/images/2025/ag_gssp_2025_IMG_2007.jpeg)
-![AG 2025 - 3](/assets/images/2025/ag_gssp_2025_IMG_2009.jpeg)
-![AG 2025 - 4](/assets/images/2025/ag_gssp_2025_IMG_2012.jpeg)
-![AG 2025 - 5](/assets/images/2025/ag_gssp_2025_IMG_2013.jpeg)
-
+![AG 2025 - 1](/assets/images/2025/ag_gssp_2025_img_2006.jpeg)
+![AG 2025 - 2](/assets/images/2025/ag_gssp_2025_img_2007.jpeg)
+![AG 2025 - 3](/assets/images/2025/ag_gssp_2025_img_2009.jpeg)
+![AG 2025 - 4](/assets/images/2025/ag_gssp_2025_img_2012.jpeg)
+![AG 2025 - 5](/assets/images/2025/ag_gssp_2025_img_2013.jpeg)
 
 
