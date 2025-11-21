@@ -6,7 +6,7 @@ categories: [ ]
 tags : [association, assemblée générale]
 image: assets/images/2025/ag_gssp_2025_img_2006.jpg
 description: "Assemblée générale du 21 Novembre 2025."
-featured: true
+featured: false
 ---
 
 L'assemblée générale de l'association Grain de sable et pomme de pin s'est tenue le 21 Novembre 2025 à 20h30 salle Marcel Paul, rue Marcel Paul, 72230, Moncé en Belin.
