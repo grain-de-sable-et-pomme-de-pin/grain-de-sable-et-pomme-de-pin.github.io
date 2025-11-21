@@ -5,7 +5,7 @@ author: gspp
 categories: [ ]
 tags : [association, assemblée générale]
 image: assets/images/2025/ag_gspp_2025_img_2006.jpg
-description: "Assemblée générale du 21 Novembre 2025."
+description: "Assemblée générale du 21 Novembre 2025"
 featured: false
 ---
 
@@ -30,4 +30,6 @@ En quelques photos :
 ![AG 2025 - 3](/assets/images/2025/ag_gspp_2025_img_2009.jpg)
 ![AG 2025 - 4](/assets/images/2025/ag_gspp_2025_img_2012.jpg)
 ![AG 2025 - 5](/assets/images/2025/ag_gspp_2025_img_2013.jpg)
+![AG 2025 - 6](/assets/images/2025/ag_gspp_2025_IMG_2015.jpeg)
+![AG 2025 - 7](/assets/images/2025/ag_gspp_2025_IMG_2016.jpeg)
 
