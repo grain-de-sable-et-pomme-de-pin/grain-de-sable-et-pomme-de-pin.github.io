@@ -8,7 +8,7 @@ tags:
   - association
   - associations
   - nature
-image: assets/images/affiche-frelon-asiatique.jpg
+image: assets/images/miniature-frelon-asiatique.jpg
 featured: true
 ---
   
