@@ -9,7 +9,7 @@ tags:
   - associations
   - nature
 image: assets/images/miniature-frelon-asiatique.jpg
-featured: true
+featured: false
 ---
   
 Grain de Sable et Pomme de Pin (GSPP), en partenariat avec le Groupement de Défense Sanitaire Apicole de la Sarthe (GDSA 72), vous proposent une réunion d'information sur le frelon à pattes jaunes, plus connu sous le nom de frelon asiatique, **le vendredi 27 févier, 20h, salle "Le Campanile", Maire de Laigné-St Gervais, 4 place de la Chanterie**  
